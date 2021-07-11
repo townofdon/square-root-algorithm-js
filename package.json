@@ -1,0 +1,17 @@
+{
+  "name": "square-root",
+  "version": "1.0.0",
+  "description": "A simple example of a square root algorithm written in Javascript",
+  "main": "squareRoot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Don Juan Javier",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-plugin-jest": "^24.3.6",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2"
+  }
+}
