@@ -39,3 +39,9 @@ https://jsbench.me/01kqzjvdqx/1
 There exist [lots of ways to calculate the square root of a number](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Decimal_(base_10)).
 If I were John Carmack, I would continue this quest to find the best possible algorithm, but I'm satisfied
 with this quick-and-dirty solution I came up with.
+
+## Diagram
+
+I've attempted to create a visual diagram explaining how this algoritm works:
+
+[Whimsical - Square Root Algorithm](https://whimsical.com/square-root-algorithm-RiiUwd4XAGYjxCXhG6mRSB)
