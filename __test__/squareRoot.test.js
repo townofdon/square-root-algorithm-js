@@ -19,6 +19,15 @@ describe('squareRoot()', () => {
 
   it('should find correct square roots of all values', () => {
     test(0);
+    test(0.1);
+    test(0.2);
+    test(0.3);
+    test(0.4);
+    test(0.5);
+    test(0.6);
+    test(0.7);
+    test(0.8);
+    test(0.9);
     test(1);
     test(2);
     test(3);
